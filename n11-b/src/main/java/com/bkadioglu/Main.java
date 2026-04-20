@@ -46,5 +46,8 @@ public class Main {
         us.adSoyadSifatYaz("Mehmet","Yıldız","Usludur");
 
 
+        System.out.println(args[0]);
+
+
     }
 }
