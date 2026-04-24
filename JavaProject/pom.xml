@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.bkadioglu</groupId>
-  <artifactId>n11-b</artifactId>
+  <artifactId>JavaProject</artifactId>
   <version>1.0</version>
 
-  <name>n11-b</name>
+  <name>JavaProject</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
