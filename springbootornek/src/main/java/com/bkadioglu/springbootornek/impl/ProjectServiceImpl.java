@@ -31,7 +31,7 @@ public class ProjectServiceImpl implements ProjectService {
     @SuppressWarnings("null")
     @Override
     public Project getById(Long id) {
-        Project project = projectRepository.getReferenceById(id);
+        Project project = projectRepository.findById(id).get();
         return project;
     }
 
